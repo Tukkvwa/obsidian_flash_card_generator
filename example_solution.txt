@@ -1,0 +1,30 @@
+
+1) What is clustering in unsupervised learning? ;; Clustering involves grouping similar data points into clusters based on their similarity. It is a foundational method in unsupervised learning.
+
+2) Name three key clustering algorithms. ;; k-means, hierarchical clustering, and density-based spatial clustering of applications with noise (DBSCAN).
+
+3) What is k-means clustering? ;; This algorithm partitions data into k clusters based on the distance between data points. Each data point is assigned to the cluster with the nearest centroid.
+
+4) What are some applications of clustering? ;; Customer segmentation, social network analysis, image segmentation, and document clustering.
+
+5) What is dimensionality reduction? ;; The process of reducing the number of features (dimensions) in a dataset while retaining as much information as possible.
+
+6) Name three key dimensionality reduction algorithms. ;; Principal component analysis, t-distributed stochastic neighbor embedding, and autoencoders.
+
+7) What are the applications of dimensionality reduction? ;; Reducing noise in data, simplifying visualization of high-dimensional datasets, and speeding up training for ML models.
+
+8) What is anomaly detection? ;; Anomaly detection aims to identify data points that deviate significantly from the majority of the data. These data points are considered anomalies or outliers.
+
+9) Name three algorithms for anomaly detection. ;; Isolation forest, k-means for outlier detection, and autoencoders for anomaly detection.
+
+10) What is association rule learning? ;; A technique that identifies relationships between variables in large datasets. Association rules are often used in market basket analysis to discover product combinations that frequently occur together.
+
+11) Name two key algorithms for association rule learning. ;; Apriori and Eclat.
+
+12) What is an example of association rule learning in retail? ;; An online retailer might use association rules to identify that customers who buy laptops often purchase laptop cases, leading to more effective product bundling or cross-selling strategies.
+
+13) When should you use unsupervised learning for exploratory analysis? ;; When you have a large, unlabeled dataset and want to discover patterns.
+
+14) How is unsupervised learning used in data compression? ;; For high-dimensional data in which training supervised models is computationally expensive, unsupervised learning can reduce dimensionality and streamline model training.
+
+15) How does unsupervised learning fit into an ML pipeline? ;; Unsupervised learning is often used to preprocess data before applying supervised learning models, improving accuracy and performance by filtering out irrelevant or redundant features.
