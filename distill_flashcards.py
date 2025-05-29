@@ -9,7 +9,7 @@ from transformers import (
     Trainer,
     TrainingArguments
 )
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 from typing import List, Tuple
 import logging
 import numpy as np
