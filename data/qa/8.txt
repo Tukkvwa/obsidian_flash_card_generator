@@ -1,0 +1,25 @@
+What is supervised learning? ;; A foundational approach in machine learning that empowers machines to learn from labeled data and make predictions on unseen data.
+What are the two main types of supervised learning problems? ;; Classification and regression.
+What is the essence of supervised learning? ;; The use of labeled data.
+What does "labeled data" mean in supervised learning? ;; Each input in the dataset is paired with a corresponding output, which serves as the "ground truth" from which the model learns.
+What are examples of labeled data in a spam email detection system? ;; Emails are labeled as "spam" or "not spam."
+What is the purpose of training in supervised learning? ;; To adjust the internal parameters of the model to minimize errors in prediction.
+What does "generalization" refer to in supervised learning? ;; The model's ability to perform well on new data, meaning it has learned the underlying patterns of the problem rather than just memorizing the training examples.
+What is overfitting? ;; When a model performs well on the training data but fails on new, unseen data.
+What is the goal in classification tasks? ;; To assign the input data to one of several predefined categories or classes.
+What is the output type in regression tasks? ;; A continuous numerical value.
+What algorithm is commonly used for binary classification despite its name? ;; Logistic regression.
+What type of algorithm is linear regression? ;; A regression algorithm.
+What makes decision trees versatile? ;; They can be used for both classification and regression tasks.
+What is the advantage of random forests over single decision trees? ;; By averaging the results of multiple trees, random forests reduce the risk of overfitting and increase robustness.
+What makes neural networks particularly useful? ;; They are highly flexible and can model complex, nonlinear relationships between inputs and outputs.
+What are the key steps in building supervised learning models? ;; Data collection and preparation, model training, model evaluation, model tuning, and deployment and maintenance.
+What is the purpose of model tuning? ;; To improve the model by adjusting hyperparameters that control the learning process.
+What metrics are commonly used to evaluate classification models? ;; Accuracy, precision, recall, F1 score, and ROC-AUC.
+What metrics are commonly used to evaluate regression models? ;; Mean squared error and R-squared.
+Why is it important to continuously monitor a deployed model? ;; To ensure it remains accurate as new data becomes available.
+What techniques can be used to find optimal hyperparameters? ;; Grid search or random search.
+How do Support Vector Machines (SVMs) work? ;; They try to find the optimal hyperplane that separates the data points from different classes.
+What makes k-nearest neighbors (k-NN) a nonparametric algorithm? ;; It doesn't make assumptions about the data distribution.
+What is a potential drawback of k-NN as datasets grow? ;; It can become computationally expensive.
+What applications are neural networks especially useful for? ;; Image recognition, natural language processing, and deep learning applications.

@@ -46,3 +46,7 @@ The plugin adds several commands to Obsidian:
 
 This project is licensed under the MIT License
 
+
+
+
+

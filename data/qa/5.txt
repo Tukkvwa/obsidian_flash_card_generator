@@ -1,0 +1,20 @@
+What is a data warehouse? ;; A central repository of data integrated from multiple sources that serves as the single source of truth—storing current and historical data that has been cleansed, conformed, and categorized.
+What state is data in when loaded into a data warehouse? ;; It is already modeled and structured for a specific purpose, meaning it's analysis-ready.
+What types of data were traditionally stored in data warehouses? ;; Relational data from transactional systems and operational databases such as CRM, ERP, HR, and Finance applications.
+What are the three tiers of a typical data warehouse architecture? ;; The bottom tier with database servers, the middle tier with OLAP Server, and the topmost tier with client front-end layer.
+What is the function of the middle tier (OLAP Server) in a data warehouse? ;; It allows users to process and analyze information coming from multiple database servers.
+What are four benefits of cloud-based data warehouses? ;; Lower costs, limitless storage and compute capabilities, scale on a pay-as-you-go basis, and faster disaster recovery.
+What is a data mart? ;; A sub-section of the data warehouse, built specifically for a particular business function, purpose, or community of users.
+What are the three basic types of data marts? ;; Dependent, independent, and hybrid data marts.
+What is a dependent data mart? ;; A sub-section of an enterprise data warehouse that offers analytical capabilities for a restricted area of the data warehouse.
+Where do independent data marts source their data from? ;; Sources other than an enterprise data warehouse, such as internal operational systems or external data.
+What is a data lake? ;; A data repository that can store large amounts of structured, semi-structured, and unstructured data in their native format.
+How does data storage in a data lake differ from a data warehouse? ;; A data lake stores raw data in its native format, while a data warehouse stores data that has been cleaned, processed, and transformed for a specific need.
+What technologies can be used to deploy data lakes? ;; Cloud Object Storage (like Amazon S3), large-scale distributed systems (like Apache Hadoop), relational database management systems, and NoSQL data repositories.
+What are four benefits of data lakes? ;; Ability to store all types of data, agility to scale based on storage capacity, saving time in defining structures, and ability to repurpose data in several different ways.
+What types of data can a data lake store? ;; Unstructured data (documents, emails, PDFs), semi-structured data (JSON, XML, CSV, logs), and structured data from relational databases.
+What is the common goal of all data mining repositories? ;; To house data for reporting, analysis, and deriving insights.
+When would an organization opt for a data warehouse? ;; When they have massive amounts of data from operational systems that need to be readily available for reporting and analysis.
+What are some popular data warehouse platforms? ;; Teradata Enterprise Data Warehouse platform, Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server, Amazon RedShift, BigQuery by Google, Cloudera's Enterprise Data Hub, and Snowflake Cloud Data Warehouse.
+What is the purpose of a data mart? ;; To provide users' data that is most relevant to them when they need it, accelerate business processes, provide a cost and time-efficient way for data-driven decisions, improve end-user response time, and provide secure access and control.
+What is important to maintain while data is in a data lake? ;; The data should be appropriately classified, protected, and governed.

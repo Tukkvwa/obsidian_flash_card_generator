@@ -1,0 +1,4 @@
+The primary objective of unsupervised learning is to find hidden patterns, relationships, or groupings in the data. This is useful in scenarios in which manually labeling data is impractical or you want to explore the dataset to understand it better.
+Data-driven insights Since unsupervised learning does not rely on labeled outputs, professionals often use it for exploratory data analysis. By revealing structures such as clusters or associations, unsupervised learning helps you understand the underlying dynamics of the dataset, which can later inform supervised models or decision-making processes.
+
+Many real-world datasets can have thousands of features, making them complex and difficult to analyze. Unsupervised learning techniques such as dimensionality reduction help simplify these datasets by reducing the number of features while preserving important information.

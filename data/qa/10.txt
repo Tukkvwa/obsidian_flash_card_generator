@@ -1,0 +1,20 @@
+What type of algorithm is logistic regression? ;; A classification algorithm commonly used for binary outcomes.
+What is the goal of logistic regression? ;; To predict one of two categories.
+Why is logistic regression often used as a baseline model? ;; It's simple and interpretable.
+What is the first step in implementing logistic regression in Python? ;; Importing the necessary libraries.
+How do we prepare data for training and testing? ;; Using train-test-split to divide our dataset into training and testing sets.
+How is logistic regression model performance typically evaluated? ;; By calculating its accuracy using accuracy_score.
+What is a limitation of logistic regression? ;; It assumes a linear relationship between the features and the log odds of the outcome.
+How do decision trees work? ;; By splitting the data into subsets based on feature values.
+What type of relationships can decision trees handle compared to logistic regression? ;; More complex, nonlinear relationships between features and the target variable.
+What types of tasks can decision trees handle? ;; Both classification and regression tasks.
+What is a disadvantage of decision trees? ;; They are prone to overfitting, especially when the tree becomes too deep.
+What makes decision trees interpretable? ;; We can visualize the tree structure to understand how the model is making decisions.
+What does each node in a decision tree represent? ;; A decision based on a feature value.
+What type of data does logistic regression work best with? ;; Linearly separable data.
+Which model is less prone to overfitting? ;; Logistic regression.
+When might decision trees give better results than logistic regression? ;; When your data has nonlinear patterns.
+What is a key strength of logistic regression? ;; It's great for simple problems with clear, linear relationships.
+What is a key strength of decision trees? ;; They offer more flexibility for complex, nonlinear data.
+What should you consider when choosing between logistic regression and decision trees? ;; The complexity of your data and the problem you're solving.
+What is recommended after understanding both models? ;; Try multiple models and evaluate them based on your specific use case, or implement both models on a dataset and compare their performance

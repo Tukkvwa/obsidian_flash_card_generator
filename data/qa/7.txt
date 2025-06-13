@@ -1,0 +1,20 @@
+What is supervised learning? ;; A type of machine learning where the model learns from labeled data.
+What does "labeled data" mean in supervised learning? ;; Data that already has the correct answers or labels assigned to it.
+What is the goal of a supervised learning model? ;; To learn from labeled data so it can make predictions or decisions on new unseen data.
+What are the three main steps in the supervised learning process? ;; Training the model, model prediction, and evaluation and adjustment.
+What happens during the training step of supervised learning? ;; You start with a dataset that contains input-output pairs, where the model learns patterns from these pairs.
+What is a test set in supervised learning? ;; A portion of the data that the model hasn't seen before, used to evaluate its accuracy.
+What are the two primary types of problems in supervised learning? ;; Classification and regression.
+What is classification in supervised learning? ;; When the goal is to categorize data into distinct classes or categories, predicting a discrete label.
+What is regression in supervised learning? ;; Tasks where the goal is to predict a continuous value or numerical value.
+What is linear regression used for? ;; For regression tasks, predicting a continuous outcome based on the relationship between input variables and the target variable.
+What type of problems is logistic regression best suited for? ;; Binary classification problems, like determining whether an email is spam or not.
+What makes decision trees versatile? ;; They work well for both classification and regression tasks.
+What are Support Vector Machines (SVMs) typically used for? ;; Classification tasks, especially when there is a clear margin of separation between the classes.
+How does K-Nearest Neighbors (KNN) make predictions? ;; Based on the neighbors closest to a given data point.
+How are supervised learning models used in email filtering? ;; They analyze incoming emails and predict whether they should be classified as spam or not based on labeled examples.
+How is supervised learning applied in medical diagnosis? ;; Machine learning models analyze patient data and predict the likelihood of certain diseases based on historical medical records.
+What role does supervised learning play in fraud detection? ;; It helps detect fraudulent transactions by analyzing patterns in transaction data and labeling them as fraudulent or legitimate.
+How do recommendation systems use supervised learning? ;; They predict what content or products you'll like based on your past behavior.
+In the example of training a model to distinguish between cats and dogs, what would the labeled data consist of? ;; A set of images that are already labeled as cat or dog.
+Why is choosing the right algorithm important in supervised learning? ;; Because each algorithm has its own strengths and weaknesses, and selecting the right one depends on the specific problem you're trying to solve.

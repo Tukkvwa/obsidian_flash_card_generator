@@ -1,0 +1,15 @@
+What is TensorFlow? ;; One of the most popular frameworks for developing deep learning models.
+What types of tasks is TensorFlow suitable for? ;; Image recognition, natural language processing (NLP), and generative models.
+What are the two execution modes supported by TensorFlow? ;; Eager execution and graph execution.
+What hardware can TensorFlow utilize to accelerate model training? ;; CPUs, GPUs, and tensor processing units (TPUs).
+What is TensorFlow Serving? ;; A flexible, high-performance serving system for deploying ML models in production.
+What makes TensorFlow popular for computer vision tasks? ;; Its comprehensive support for convolutional neural networks.
+Why is TensorFlow suitable for reinforcement learning applications? ;; It supports reinforcement learning frameworks, including TensorFlow Agents.
+What distinguishes PyTorch's computation graphs from TensorFlow's? ;; PyTorch uses dynamic computation graphs built on the fly during execution, while TensorFlow traditionally used static computation graphs.
+What makes PyTorch easy to use? ;; Its Pythonic nature that integrates well with other Python libraries and feels intuitive.
+What is TorchScript in PyTorch? ;; A way to serialize and optimize models to run independently of Python.
+Why is PyTorch preferred for research and prototyping? ;; Its dynamic computation graphs and ease of use.
+What is torchvision? ;; A library that makes it easy to implement state-of-the-art image processing techniques in PyTorch.
+What NLP library is built on PyTorch? ;; The Hugging Face Transformers library.
+What are two areas where both TensorFlow and PyTorch are commonly used? ;; Computer vision and natural language processing.
+What advantage does PyTorch's community support provide? ;; A rich ecosystem of tools, tutorials, and pretrained models.

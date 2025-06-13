@@ -1,0 +1,15 @@
+What does RAG stand for in AI? ;; Retrieval Augmented Generation.
+What two AI techniques does RAG combine? ;; Retrieval and generation.
+What is the main limitation of traditional generative AI models like GPT? ;; They don't always have access to up-to-date or specific information.
+What happens during the retrieval process in RAG? ;; The AI actively searches for relevant information from external sources like databases, document repositories, or the web.
+What advantage does the retrieval step give to RAG models? ;; It gives RAG models a significant edge in producing content that's both factually correct and contextually appropriate.
+How does the generation process work in RAG? ;; After retrieval, the AI uses the retrieved information as a foundation to generate new content that is informed by the most relevant and current data available.
+What analogy is used to explain RAG in the text? ;; A writer doing research (retrieval) before drafting an article (generation).
+Name three applications where RAG can be used. ;; Chatbots and virtual assistants, content generation for news or technical documentation, and personalized recommendations.
+Why is RAG particularly useful for customer support applications? ;; Because accurate real-time information is crucial in customer support.
+What is the main benefit of RAG over traditional generative AI? ;; It enables AI to generate more accurate, relevant, and contextually aware content by bridging the gap between static training data and dynamic, real-world information.
+How does RAG improve AI-generated outputs? ;; By incorporating real-time data into the generation process, improving relevance and accuracy.
+Why is RAG considered a "game changer" in AI? ;; Because it allows AI systems to be not just intelligent but also adaptable and reliable by combining retrieval and generation to create smarter systems.
+What type of data can RAG systems pull from? ;; External sources like databases, document repositories, or the web.
+How does RAG help with content that needs to be up-to-date? ;; It actively retrieves fresh, specific details that might not have been seen during the AI's initial training.
+What's the next step after understanding what RAG is? ;; Exploring how to implement and optimize retrieval augmented generation in various AI applications.

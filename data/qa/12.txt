@@ -1,0 +1,10 @@
+What is the primary objective of unsupervised learning? ;; To find hidden patterns, relationships, or groupings in the data.
+In what scenarios is unsupervised learning particularly useful? ;; In scenarios where manually labeling data is impractical or when you want to explore the dataset to understand it better.
+Why do professionals often use unsupervised learning for exploratory data analysis? ;; Since it does not rely on labeled outputs and can reveal structures such as clusters or associations.
+How does unsupervised learning help in understanding datasets? ;; By revealing structures such as clusters or associations, helping to understand the underlying dynamics of the dataset.
+What can the insights from unsupervised learning inform? ;; They can inform supervised models or decision-making processes.
+What challenge do many real-world datasets present? ;; They can have thousands of features, making them complex and difficult to analyze.
+What unsupervised learning technique helps simplify complex datasets? ;; Dimensionality reduction.
+How does dimensionality reduction help with complex datasets? ;; By reducing the number of features while preserving important information.
+What makes unsupervised learning "data-driven"? ;; It discovers insights directly from the data without requiring predefined labels or outcomes.
+What is the relationship between unsupervised learning and data complexity? ;; Unsupervised learning provides tools to manage and understand complex data with many features.

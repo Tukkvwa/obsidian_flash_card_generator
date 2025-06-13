@@ -1,0 +1,97 @@
+All data mining repositories have a similar goal, which is to house data for reporting,
+analysis, and deriving insights.
+But their purpose, types of data stored, and how data is accessed differs.
+In this video, we will learn about some of the characteristics and applications of data
+warehouses, data marts, and data lakes.
+A data warehouse is a central repository of data integrated from multiple sources.
+Data warehouses serve as the single source of truth—storing current and historical
+data that has been cleansed, conformed, and categorized.
+When data gets loaded into the data warehouse, it is already modeled and structured for a
+specific purpose, meaning it's analysis-ready.
+Traditionally, data warehouses are known to store relational data from transactional systems
+and operational databases such as CRM, ERP, HR, and Finance applications.
+But with the emergence of NoSQL technologies and new data sources, non-relational data
+repositories are also being used for data warehousing.
+Typically, a data warehouse has a three-tier architecture:
+The bottom tier of the architecture includes the database servers, which could be relational,
+non-relational, or both, that extract data from different sources.
+The middle tier of the architecture consists of the OLAP Server, a category of software
+that allows users to process and analyze information coming from multiple database servers.
+And the topmost tier of the architecture includes the client front-end layer.
+This tier includes all the tools and applications used for querying, reporting, and analyzing
+data.
+In response to the rapid data growth and today's sophisticated analytics tools, data warehouses
+that once resided in on-premise data centers are moving to the cloud.
+Compared to their on-premise versions, some of the benefits offered by cloud-based data
+warehouses include:
+Lower costs,
+Limitless storage and compute capabilities,
+Scale on a pay-as-you-go basis; and
+Faster disaster recovery.
+As an organization, you would opt for a data warehouse when you have massive amounts of
+data from your operational systems that need to be readily available for reporting and
+analysis.
+Some of the popularly used data warehouses include Teradata Enterprise Data Warehouse
+platform, Oracle Exadata, IBM Db2 Warehouse on Cloud, IBM Netezza Performance Server,
+Amazon RedShift, BigQuery by Google Cloudera's Enterprise Data Hub, and Snowflake Cloud Data
+Warehouse.
+A data mart is a sub-section of the data warehouse, built specifically for a particular business
+function, purpose, or community of users.
+For example, sales or finance groups in an organization accessing data for their quarterly
+reporting and projections.
+There are three basic types of data marts—dependent, independent, and hybrid data marts.
+Dependent data marts are a sub-section of an enterprise data warehouse.
+Since a dependent data mart offers analytical capabilities for a restricted area of the
+data warehouse, it also provides isolated security and isolated performance.
+Independent data marts are created from sources other than an enterprise data warehouse, such
+as internal operational systems or external data.
+Hybrid data marts combine inputs from data warehouses, operational systems, and external
+systems.
+The difference also lies in how data is extracted from the source systems, the transformations
+that need to be applied, and how the data is transported into the mart.
+Dependent data marts, for example, pull data from an enterprise data warehouse, where data
+has already been cleaned and transformed.
+Independent data marts need to carry out the transformation process on the source data
+since it is coming directly from operational systems and external sources.
+Whatever the type, the purpose of a data mart is to:
+provide users' data that is most relevant to them when they need it,
+accelerate business processes by providing efficient response times,
+provide a cost and time-efficient way in which data-driven decisions can be taken,
+improve end-user response time; and
+provide secure access and control.
+A Data Lake is a data repository that can store large amounts of structured, semi-structured,
+and unstructured data in their native format.
+While a data warehouse stores data that has been cleaned, processed, and transformed for
+a specific need, you do not need to define the structure and schema of data before loading
+into the data lake.
+You do not even need to know all of the use cases for which you will ultimately be analyzing
+the data.
+A data lake exists as a repository of raw data in its native format, straight from the
+source, to be transformed based on the use case for which it needs to be analyzed.
+Which does not mean that a data lake is a place where data can be dumped without governance.
+While in the data lake, the data is appropriately classified, protected, and governed.
+A data lake is a reference architecture that is independent of technology.
+Data lakes combine a variety of technologies that come together to facilitate agile data
+exploration for analysts and data scientists.
+Data lakes can be deployed using Cloud Object Storage, such as Amazon S3, or large-scale
+distributed systems such as Apache Hadoop, used for processing Big Data.
+They can also be deployed on different relational database management systems, as well as NoSQL
+data repositories that can store very large amounts of data.
+Data lakes offer a number of benefits, such as:
+The ability to store all types of data – unstructured data such as documents, emails, PDFs, semi-structured
+data such as JSON, XML, CSV, and logs, as well as structured data from relational databases
+The agility to scale based on storage capacity – growing from terabytes to petabytes of
+data
+Saving time in defining structures, schemas, and transformations since data is imported
+in its original format and
+The ability to repurpose data in several different ways and wide-ranging use cases.
+This is extremely beneficial as it is hard for businesses to foresee all the different
+ways in which you could potentially leverage their data in the future.
+Some of the vendors that provide technologies, platforms, and reference architectures for
+data lakes include Amazon, Cloudera, Google, IBM, Informatica, Microsoft, Oracle, SAS,
+Snowflake, Teradata, and Zaloni.
+In this video, we learned about some of the capabilities of data mining repositories such
+as data warehouses, data marts, and data lakes.
+While they all have a similar goal, they need to be evaluated within the context of the
+use case and technology infrastructure for selecting the one that works best for an organization’s
+needs. 

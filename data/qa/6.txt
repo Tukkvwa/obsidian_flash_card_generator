@@ -1,0 +1,20 @@
+What analogy does the speaker use to explain data architectures? ;; A restaurant kitchen's logistics system.
+Where are raw ingredients delivered in a commercial kitchen? ;; To the loading dock on large pallets.
+What three types of storage areas are mentioned for restaurant ingredients? ;; Pantry for dry goods, walk-in fridges, and freezers.
+Why is it important to organize storage areas in a kitchen? ;; To ensure ingredients expiring first are used first, separate ingredients for contamination reasons, and maintain proper temperatures for food safety.
+What happens if cooks don't have an organized ingredient processing system? ;; They'd spend more time looking for ingredients and less time cooking and serving meals.
+What are data lakes in the data architecture analogy? ;; Places to quickly dump all different types of data in different formats for later use.
+What types of data can data lakes capture? ;; Raw, structured, unstructured, and semi-structured data.
+What is an Enterprise Data Warehouse (EDW)? ;; A place where data is loaded, optimized, and organized to run very specific analytical tasks.
+What types of workloads can EDWs power? ;; Business intelligence workloads such as building dashboards and reports.
+What happens when data lakes become "data swamps"? ;; They contain duplicate, inaccurate, or incomplete data, making it difficult to track and manage assets.
+What challenge do data lakes have regarding query performance? ;; They're not built and optimized to handle complex analytical queries.
+What are data warehouses exceptional at? ;; Query performance.
+What is a limitation of data warehouses regarding data types? ;; They have limited support for semi-structured and unstructured data sources.
+Why might data warehouses be too slow for certain applications? ;; Because it takes time to sort, clean, and load data into the warehouse.
+What is a data lake house? ;; A technology that combines the best of both data lakes and data warehouses.
+What advantages does a data lake house provide? ;; The flexibility and cost-effectiveness of a data lake with the performance and structure of a data warehouse.
+What two workload types can lake houses power? ;; Business intelligence and high-performance machine learning workloads.
+What are two ways to start using a lake house? ;; Modernizing existing data lakes or complementing data warehouses to support new types of AI and machine learning-driven workloads.
+Why is it important to process data or ingredients quickly? ;; To minimize waste and spoilage.
+What types of data sources are growing the most according to the speaker? ;; Semi-structured and unstructured data sources.

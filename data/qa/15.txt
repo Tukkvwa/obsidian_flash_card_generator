@@ -1,0 +1,11 @@
+What could be a key ingredient for building artificial intelligence according to the text? ;; Thermodynamic fluctuations.
+What are three examples of AI primitives that rely on simulating stochastic fluctuations? ;; Generative diffusion models, time-series analysis with neural stochastic differential equations (SDEs), and Bayesian neural networks.
+Why does generative modeling necessarily involve fluctuations? ;; Because one does not simply want to replicate the data but rather randomly generate new samples.
+What is the proposed alternative to simulating fluctuations with standard digital hardware? ;; Design hardware that has thermodynamic fluctuations already built in as a fundamental building block.
+What could large-scale thermodynamic AI machines allow us to pursue? ;; Answers to deep questions about living systems or other adapting, self-evolving systems.
+What is the general principle in computing mentioned in the text? ;; One should simulate apples with apples.
+How should hardware design be matched according to this principle? ;; Match the hardware design to the system that one would like to simulate, to maximize efficiency.
+What are some open questions that thermodynamic AI machines could help address? ;; The origins of life, the origins of intelligent life, and the connections between life and the laws of physics.
+Whose theories are mentioned as potentially testable with thermodynamic AI machines? ;; England's theories.
+How could thermodynamic AI machines be used as simulators? ;; As simulators for complex fluctuating systems.
+What frontier will thermodynamic AI machines allow us to push forward into? ;; The fluctuation frontier.

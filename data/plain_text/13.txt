@@ -1,0 +1,8 @@
+Clustering
+Definition: Clustering involves grouping similar data points into clusters based on their similarity. It is a foundational method in unsupervised learning.
+Key algorithms
+* k-means: This algorithm partitions data into k clusters based on the distance between data points. Each data point is assigned to the cluster with the nearest centroid.
+* Hierarchical clustering: This builds a tree of clusters by either iteratively merging or splitting clusters based on their proximity.
+* Density-based spatial clustering of applications with noise (DBSCAN): This algorithm groups data points based on their density and can find clusters of arbitrary shapes, including noise points.
+Applications: Customer segmentation, social network analysis, image segmentation, and document clustering
+Example: A retail company can use clustering to segment customers based on purchasing behavior, creating distinct groups such as budget shoppers, frequent buyers, and luxury spenders.

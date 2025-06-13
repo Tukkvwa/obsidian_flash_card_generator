@@ -1,0 +1,15 @@
+What is the inherent nature of a thermodynamic system? ;; It is inherently dynamic in nature.
+How should the fundamental building blocks of thermodynamic AI hardware behave compared to classical bits or qubits? ;; They should be dynamic and passively evolve over time, rather than remaining fixed unless actively changed by gates.
+What should the fundamental building blocks of thermodynamic AI hardware do without the application of gates? ;; They should passively and naturally evolve over time.
+What dynamical process is proposed for thermodynamic building blocks? ;; A stochastic Markov process.
+Why should the process be continuous in time? ;; Because no time point is more special than any other time point.
+What is an s-bit? ;; The discrete building block that follows a continuous-time Markov chain (CTMC).
+What does the "s" in s-bit stand for? ;; Stochastic.
+What is the continuous-time process that s-bits follow? ;; A continuous-time Markov chain (CTMC).
+What is an s-mode? ;; The continuous building block that follows a Brownian motion process.
+What is the natural analog process for s-modes? ;; Brownian motion (also known as a Wiener process).
+What is the generic term used to encompass both s-bits and s-modes? ;; S-unit.
+What is another name for Brownian motion? ;; Wiener process.
+How does the approach described differ from Mansinghka et al.'s work? ;; This approach is analog, while Mansinghka et al. used digital logic.
+What is the key difference between classical bits/qubits and s-units in terms of state evolution? ;; Classical bits/qubits ideally remain fixed unless actively changed, while s-units naturally evolve over time without external intervention.
+What type of process characterizes the evolution of discrete thermodynamic building blocks? ;; Continuous-time Markov chain (CTMC).

@@ -1,0 +1,15 @@
+1) What are relational databases? ;; these are fixed schemes that store data in tables composed of rows and columns
+
+2) Where does the value we derive from data come from? ;; accuracy of the data and the accessibility of the data when we need it.
+
+This is the text:
+"3. Scikit-learn
+Features
+Comprehensive ML library: A  widely-used Python library, Scikit-learn provides simple and efficient tools for data mining and analysis. It is built on NumPy, SciPy, and Matplotlib, making it easy to integrate into Python-based data workflows.
+Wide range of algorithms: It offers a vast array of ML algorithms, including regression, classification, clustering, and dimensionality reduction. This makes Scikit-learn versatile for a variety of tasks.
+Easy-to-use API: Its user-friendly API makes it accessible even to those new to ML. It provides tools for model selection, training, and evaluation, all within a consistent interface.
+Model evaluation and validation: It includes tools for cross-validation, grid search, and model evaluation, allowing developers to fine-tune models and assess their performance on different datasets.
+Applications
+Predictive modeling: Developers often use Scikit-learn to build predictive models, such as linear regression for forecasting or decision trees for classification. Its ease of use makes it a popular choice for educational purposes and in situations where a simple, interpretable model is sufficient.
+Data preprocessing: Before training models, developers often needed to clean, normalize, or transform data. Scikit-learn provides robust tools for these preprocessing tasks, such as using feature scaling, encoding categorical variables, and handling missing data.
+Model evaluation: Its tools for model evaluation, including confusion matrices, Receiver Operating Characteristics (ROC) curves, and precision-recall metrics, are essential for assessing model performance and making informed decisions about model deployment."

@@ -1,0 +1,25 @@
+What directly impacts the performance of a supervised learning model? ;; The quality of your data.
+What are three ways to ensure high-quality data? ;; Handling missing data, removing outliers, and feature scaling.
+Why is feature scaling important? ;; Many supervised learning algorithms are sensitive to the scale of features, and scaling ensures all features contribute equally to the model.
+What are the three typical data splits used in supervised learning? ;; Training set, validation set, and test set.
+What is the validation set used for? ;; To tune hyperparameters and make adjustments to improve performance.
+What are good algorithm choices for linearly separable classification tasks? ;; Logistic regression or SVMs.
+What is overfitting? ;; When a model learns the noise in the training data rather than the actual underlying patterns, leading to poor generalization on new data.
+What are three ways to prevent overfitting? ;; Simplify the model, use cross-validation, and apply regularization techniques.
+What is k-fold cross-validation? ;; A process where the dataset is split into k parts, and the model is trained k times, each time leaving out one of the k parts as the test set.
+What are examples of hyperparameters in supervised learning? ;; Learning rate, regularization strength, and number of neighbors (for k-NN).
+What are three techniques for hyperparameter tuning? ;; Grid search, random search, and automated hyperparameter tuning.
+What evaluation metrics are appropriate for imbalanced classification datasets? ;; Precision and recall.
+What metrics are commonly used for evaluating regression models? ;; Mean squared error (MSE), root mean squared error (RMSE), and R-squared.
+What is "data drift"? ;; A phenomenon where data distributions change over time, which can cause a model's accuracy to degrade.
+Why is continuous monitoring important after model deployment? ;; To detect significant drops in performance so that corrective action can be taken quickly.
+What are two best practices for model deployment? ;; Version control and containerization.
+In which industries is model interpretability especially critical? ;; Healthcare, finance, and law.
+What makes simpler models like decision trees or linear regression inherently interpretable? ;; They provide clear insight into how features influence predictions.
+What tools can be used to explain complex models? ;; Local interpretable model-agnostic explanations (LIME) or SHapley Additive exPlanations (SHAP).
+How can you maintain a model's performance over time? ;; By regularly retraining the model on new data.
+What is the benefit of using random search over grid search? ;; Random search can be more efficient than grid search, especially when there are many parameters to tune.
+What happens if you use poor or incomplete data for your model? ;; It can lead to inaccurate predictions, regardless of the algorithm used.
+What is the purpose of the test set? ;; To evaluate the model's performance on unseen data.
+When might you choose neural networks over simpler algorithms? ;; For more complex datasets or to capture nonlinear relationships.
+Why is model explainability important? ;; It helps increase trust in the model's outputs, especially in critical decision-making scenarios.

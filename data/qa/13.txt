@@ -1,0 +1,12 @@
+What is clustering? ;; Grouping similar data points into clusters based on their similarity.
+What type of learning method is clustering? ;; A foundational method in unsupervised learning.
+How does k-means clustering work? ;; It partitions data into k clusters based on the distance between data points, with each data point assigned to the cluster with the nearest centroid.
+What is hierarchical clustering? ;; A method that builds a tree of clusters by either iteratively merging or splitting clusters based on their proximity.
+What does DBSCAN stand for? ;; Density-based spatial clustering of applications with noise.
+What advantage does DBSCAN offer over other clustering methods? ;; It can find clusters of arbitrary shapes, including noise points.
+What are four applications of clustering? ;; Customer segmentation, social network analysis, image segmentation, and document clustering.
+How can a retail company use clustering? ;; To segment customers based on purchasing behavior, creating distinct groups such as budget shoppers, frequent buyers, and luxury spenders.
+How does k-means determine which cluster to assign a data point to? ;; Based on the distance to the nearest centroid.
+What distinguishes DBSCAN from k-means in terms of how it forms clusters? ;; DBSCAN groups data points based on their density rather than distance to centroids.
+What is the basis for hierarchical clustering? ;; The proximity between clusters or data points.
+Which clustering algorithm is specifically mentioned as being able to identify noise points? ;; DBSCAN (Density-based spatial clustering of applications with noise).

@@ -1,0 +1,15 @@
+What is unsupervised learning? ;; A type of machine learning where the algorithm is given input data without corresponding output labels.
+What is the goal of unsupervised learning algorithms? ;; To find hidden patterns or intrinsic structures within data.
+What are the two main types of unsupervised learning techniques? ;; Clustering and dimensionality reduction.
+What does clustering involve? ;; Grouping similar data points together.
+What is k-means? ;; A popular clustering algorithm where data points are divided into clusters based on how closely they are related.
+How can clustering help companies like Netflix? ;; By segmenting customers based on behavior patterns and preferences for programming, allowing for more direct and suitable recommendations.
+What is dimensionality reduction? ;; Reducing the number of features in a dataset while retaining as much information as possible.
+What is Principal Component Analysis (PCA)? ;; A common method for dimensionality reduction that helps simplify datasets by transforming them into fewer dimensions.
+How can unsupervised learning be applied in marketing? ;; By clustering customers together based on their purchasing behavior.
+How can unsupervised learning be used in healthcare? ;; To identify patterns in patient data that might not be immediately obvious.
+What role does unsupervised learning play in anomaly detection? ;; It's used to detect outliers, like fraudulent transactions in financial services.
+What types of datasets are appropriate for unsupervised learning? ;; Datasets without labeled outcomes, such as customer purchase history or social media engagement data.
+What insight can unsupervised learning provide? ;; It can inform business decisions or research directions by revealing patterns in data.
+Why is PCA useful? ;; It makes complex datasets with many features easier to work with.
+What is the primary difference between supervised and unsupervised learning? ;; Unsupervised learning works with input data without corresponding output labels, while supervised learning uses labeled data.

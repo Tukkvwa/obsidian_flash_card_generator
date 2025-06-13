@@ -1,0 +1,10 @@
+What is Scikit-learn? ;; A widely-used Python library that provides simple and efficient tools for data mining and analysis, built on NumPy, SciPy, and Matplotlib.
+What makes Scikit-learn easy to integrate into Python-based data workflows? ;; It is built on NumPy, SciPy, and Matplotlib.
+What types of algorithms does Scikit-learn offer? ;; Regression, classification, clustering, and dimensionality reduction algorithms.
+What makes Scikit-learn accessible to those new to machine learning? ;; Its user-friendly API.
+What tools does Scikit-learn provide for model optimization? ;; Tools for cross-validation, grid search, and model evaluation.
+What are two common uses of Scikit-learn for predictive modeling? ;; Linear regression for forecasting and decision trees for classification.
+What preprocessing tasks can Scikit-learn help with? ;; Feature scaling, encoding categorical variables, and handling missing data.
+What tools does Scikit-learn offer for model evaluation? ;; Confusion matrices, Receiver Operating Characteristics (ROC) curves, and precision-recall metrics.
+Why is Scikit-learn considered versatile? ;; It offers a vast array of ML algorithms for a variety of tasks.
+What advantage does Scikit-learn's consistent interface provide? ;; It provides tools for model selection, training, and evaluation all within the same interface.

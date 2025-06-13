@@ -1,0 +1,35 @@
+Unsupervised learning is a type of machine learning where the algorithm is given input
+data without corresponding output labels.
+Instead of predicting specific outcomes, the algorithm tries to find hidden patterns or
+intrinsic structures within that data.
+There are two main types of unsupervised learning techniques, clustering and dimensionality
+reduction.
+Clustering involves grouping similar data points together.
+A popular algorithm used here is k-means, where data points are divided into clusters
+based on how closely they are related.
+For example, clustering can help companies segment their customers based on behavior patterns.
+Netflix customers, for example, tend to watch shows that include similar lead actors or
+have similar themes or can be grouped into similar genres.
+Clustering these data points, customer preferences for programming, allows a more direct and
+suitable recommendation system.
+Another important area is dimensionality reduction, which is about reducing the number of features
+in a dataset while retaining as much information as possible.
+A common method for this is Principal Component Analysis, or PCA, which helps simplify datasets
+by transforming them into fewer dimensions, making them easier to work with.
+Unsupervised learning has wide-ranging applications.
+For example, in marketing, clustering can help businesses group customers together by
+their purchasing behavior.
+In healthcare, it can help identify patterns in patient data that might not be immediately
+obvious.
+And, in anomaly detection, unsupervised learning is used to detect outliers, like fraudulent
+transactions in financial services.
+To wrap up, unsupervised learning is all about finding hidden patterns in data.
+Whether it's clustering customers, reducing dimensions in high-dimensional datasets, or
+detecting anomalies, it's a powerful tool for gaining insight from unlabeled data.
+Now it's time to put unsupervised learning into action.
+Choose a dataset without labeled outcomes, such as customer purchase history or social
+media engagement data.
+Apply a clustering technique, like k-means, to identify distinct groups, or use PCA to
+simplify a complex dataset with many features.
+As you experiment, pay attention to the insight you gain and how it could inform business
+decisions or research directions.
